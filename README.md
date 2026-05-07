@@ -1,5 +1,5 @@
 # End-to-End Medallion Pipeline in Microsoft Fabric
-
+<img src="lineage.png" width="600">
 ## 🚀 Project Overview
 I built a rapid-deployment data pipeline in Microsoft Fabric to transform raw CSV sales data into a business-ready "Gold" layer. This project demonstrates the Medallion Architecture using PySpark and OneLake.
 
