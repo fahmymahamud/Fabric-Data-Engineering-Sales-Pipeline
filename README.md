@@ -18,6 +18,9 @@ The project follows the Medallion design pattern to ensure data quality and perf
 - **Analytics:** SQL Analytics Endpoint
 - **Visualization:** Power BI (DirectLake Mode)
 
+<img src="carbon.png" width="600">
+
+
 ## 📊 Business Intelligence & Visualization
 Developed a **Regional Sales Performance Overview** dashboard in Power BI using **DirectLake** connectivity to provide real-time visibility into revenue streams across four key territories.
 
